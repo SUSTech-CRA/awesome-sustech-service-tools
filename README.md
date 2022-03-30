@@ -23,5 +23,5 @@
 11. DNS123服务：`10.20.110.123`，可通过此服务访问[Google Scholar](https://scholar.google.com.hk/)等学术服务。
 
 ## 个人开发
-1. TIS 教务系统拓展工具 by @Zoom1111：[📁仓库](https://github.com/Zoom1111/SUSTechDropTis)
-
+1. TIS-教务系统拓展工具.exe by @Zoom1111：[📁仓库](https://github.com/Zoom1111/SUSTechDropTis)
+2. TIS-教务系统拓展脚本.js by @Fros1er [📁仓库](https://github.com/Fros1er/SUSTechTISHelper)
