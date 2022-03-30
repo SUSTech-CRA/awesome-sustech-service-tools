@@ -19,7 +19,7 @@
 7. [🛠 软件资源下载](https://dl.cra.moe/)
 8. [牛娃课程评价社区](https://nces.cra.moe/)：是南科大学生的课程评价社区，只有拥有南科大邮箱的同学或老师才可以注册账户。[📁仓库](https://github.com/SUSTech-CRA/sustech-course)。
 9.  [🖥️服务状态监控](https://monitor.cra.moe)：校园网络，CRA服务监控。
-10. 🌊[反馈社区](https://c.cra.moe)：反馈与交流相关服务。可使用CAS登陆。
+10. 🌊[牛娃广场（反馈社区）](https://c.cra.moe)：反馈与交流相关服务，现在已与牛娃小镇共同运营。可使用CAS登陆。
 11. DNS123服务：`10.20.110.123`，可通过此服务访问[Google Scholar](https://scholar.google.com.hk/)等学术服务。
 
 ## 个人开发
