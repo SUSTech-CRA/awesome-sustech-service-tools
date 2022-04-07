@@ -2,6 +2,9 @@
 
 为南科大学生开发的各种（官方、非官方）服务、工具、仓库索引列表。欢迎 Pull Request！
 
+## 子列表
+* SUSTech LaTeX 模板目录：[📁仓库](https://github.com/SUSTC/latex-template)
+
 ## 计算机研究协会（CRA）
 
 部分项目与科学计算中心合作部署。
