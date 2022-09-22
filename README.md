@@ -38,6 +38,6 @@
   
 
 ## 个人开发
-1. TIS-教务系统拓展工具.exe**（暂不计划维护**）by @Zoom1111：[📁仓库](https://github.com/wanliZhong/SUSTechDropTis)
+1. TIS-教务系统拓展工具.exe**（暂不计划维护**）by @wanliZhong：[📁仓库](https://github.com/wanliZhong/SUSTechDropTis)
 2. TIS-教务系统拓展脚本.js by @Fros1er [📁仓库](https://github.com/Fros1er/SUSTechTISHelper)
 3. IPTV电视直播 by @liziwl：[🌐网站](https://iptv.liziwl.cn/)，[📁仓库](https://github.com/liziwl/iptv-panel-react)
